@@ -1,0 +1,32 @@
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\井字棋\Tic-Tac-Toe (with AI)\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
